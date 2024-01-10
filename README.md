@@ -10,7 +10,7 @@ Above Ground Biomass is an important variable as forests play a crucial role in 
 * Reference AGB measurements were collected using LiDAR (Light Detection and Ranging) calibrated with in-situ measurements.
 * Total 13000 patches, each patch covering 2,560 by 2,560 meter area.
   
-!<img src="./Finland_LiDAR_Map.png" alt="Flood Sites" width="300" height="350">
+!<img src="./Finland_LiDAR_Map.png" alt="Flood Sites" width="300" height="310">
 ### Data Specifications:
 ![img](./data_spec.png)
 ### Data Size:
