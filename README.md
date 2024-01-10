@@ -13,7 +13,7 @@ Above Ground Biomass is an important variable as forests play a crucial role in 
 !<img src="./Finland_LiDAR_Map.png" alt="Flood Sites" width="300" height="310">
 ### Data Specifications:
 ![img](./data_spec.png)
-### Data Size:
+### Data Size ([Download link](https://huggingface.co/datasets/nascetti-a/BioMassters/tree/main)):
 ```
   dataset         | # files  | size
   --------------------------------------
@@ -21,7 +21,7 @@ Above Ground Biomass is an important variable as forests play a crucial role in 
   test_features   |   63348  |  73.0GB
   train_agbm      |    8689  |   2.1GB
 ```
-### [Data Download link](https://huggingface.co/datasets/nascetti-a/BioMassters/tree/main)
+
 ## Citation:
 ```
 @inproceedings{nascetti2023biomassters,
