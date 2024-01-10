@@ -21,7 +21,7 @@ Above Ground Biomass is an important variable as forests play a crucial role in 
   test_features   |   63348  |  73.0GB
   train_agbm      |    8689  |   2.1GB
 ```
-### [Download link](https://huggingface.co/datasets/nascetti-a/BioMassters/tree/main)
+### [Data Download link](https://huggingface.co/datasets/nascetti-a/BioMassters/tree/main)
 ## Citation:
 ```
 @inproceedings{nascetti2023biomassters,
