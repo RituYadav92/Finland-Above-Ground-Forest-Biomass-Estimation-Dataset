@@ -15,7 +15,7 @@ higher-resolution biomass maps.
 * Total 13000 patches, each patch covering 2,560 by 2,560 meter area.
 
 ### Data Specifications:
-![img](./Data_specifications.png)
+![img](./data_spec.png)
 
 ### Data Size:
 ```
